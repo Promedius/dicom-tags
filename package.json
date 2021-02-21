@@ -1,0 +1,12 @@
+{
+  "name": "@promedius/dicom-tags",
+  "version": "1.0.0",
+  "description": "dicom tag dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
